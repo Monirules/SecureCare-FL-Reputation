@@ -1,7 +1,7 @@
 
 ## 🚀 SecureCare WBAN: Advanced Reputation-Based Federated Learning
 
-<img width="2665" height="3276" alt="REPUTATION-BASED BLOCKCHAIN-ENABLED FEDERATED LEARNING FOR WBAN - visual selection" src="https://github.com/user-attachments/assets/972d9cee-e36c-457e-aa5d-743472e4fb1b" />
+![img1_page-0001](https://github.com/user-attachments/assets/3f8fab48-c297-4bcb-98a1-7ae7b7bc13b1)
 
 🎯 Key Features Implemented:
 
